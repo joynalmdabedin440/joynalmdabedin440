@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md Joynal Abedin</h1>
 <h3 align="center">Frontend Developer from Bangladesh | Broad background in computer science, with a focus on creating engaging and user-friendly web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joynalmdabedin440&label=Profile%20views&color=0e75b6&style=flat" alt="joynalmdabedin440" /> </p>
+<p align="left"> <img src="username=joynalmdabedin440&label=Profile%20views&color=0e75b6&style=flat" alt="joynalmdabedin440" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joynalmdabedin440" alt="joynalmdabedin440" /></a> </p>
+<p align="left"> <a href="https://github.com/joynalmdabedin440"><img src="https://github-profile-trophy.vercel.app/?username=joynalmdabedin440" alt="joynalmdabedin440" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amdjoynal443" target="blank"><img src="https://img.shields.io/twitter/follow/amdjoynal443?logo=twitter&style=for-the-badge" alt="amdjoynal443" /></a> </p>
 
