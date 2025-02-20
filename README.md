@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amdjoynal443" target="blank"><img src="https://img.shields.io/twitter/follow/amdjoynal443?logo=twitter&style=for-the-badge" alt="amdjoynal443" /></a> </p>
 
-- 🔭 I’m currently working on [The Daily Feed]([https://github.com/joynalmdabedin440/](https://github.com/joynalmdabedin440/the-daily-feed)) [NearNook](https://github.com/joynalmdabedin440/NearNook)
+- 🔭 I’m currently working on [The Daily Feed](https://github.com/joynalmdabedin440/the-daily-feed)) [NearNook](https://github.com/joynalmdabedin440/NearNook)
 
 - 🌱 I’m currently learning **Nodejs,MongoDB**
 
